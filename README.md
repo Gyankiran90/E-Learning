@@ -13,4 +13,4 @@
 
 💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
 
-![preview img](/Homescreen.png)
+![preview img](/HomeScreen.png)
